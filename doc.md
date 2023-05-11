@@ -18,7 +18,7 @@
 ![no photo](https://github.com/muhammedanshid/10-days-internship/blob/main/anshidtinkecade3.png)
 # day-3
 # thinker cad program 4
-# code for led blink with arduino 
+ code for led blink with arduino 
 ```
 // C++ code
 //
