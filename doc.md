@@ -90,4 +90,43 @@ void loop()
 # thinker cad program 6
 [thinkercade](https://www.tinkercad.com/things/5qFEsArirTq-5-led-with-using-arduino/editel)
 
-![photo is loading](
+![photo is loading](https://github.com/muhammedanshid/10-days-internship/blob/main/img/anshidtinkecad6.png)
+
+cod of this experiment
+```
+e(7, LOW);
+  delay(300); // Wait for 1000 millisecond(s)
+  digitalWrite(4, HIGH);
+  delay(300); // Wait for 1000 millisecond(s)
+  digitalWrite(4, LOW);
+  delay(300); // Wait for 1000 millisecond(s)
+}// C++ code
+//
+void setup()
+{
+  pinMode(13, OUTPUT);
+  pinMode(12, OUTPUT);
+  pinMode(8, OUTPUT);
+  pinMode(7, OUTPUT);
+  pinMode(4, OUTPUT);
+}
+
+void loop()
+{
+  digitalWrite(13, HIGH);
+  delay(300); // Wait for 1000 millisecond(s)
+  digitalWrite(13, LOW);
+  delay(300); // Wait for 1000 millisecond(s)
+  digitalWrite(12, HIGH);
+  delay(300); // Wait for 1000 millisecond(s)
+  digitalWrite(12, LOW);
+  delay(300); // Wait for 1000 millisecond(s)
+  digitalWrite(8, HIGH);
+  delay(300); // Wait for 1000 millisecond(s)
+  digitalWrite(8, LOW);
+  delay(300); // Wait for 1000 millisecond(s)
+  digitalWrite(7, HIGH);
+  delay(300); // Wait for 1000 millisecond(s)
+  digitalWrit
+}
+```
