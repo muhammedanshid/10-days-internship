@@ -56,3 +56,8 @@ void loop()
   delay(1000); // Wait for 1000 millisecond(s)
 }
 ```
+# day-3
+# thinker cad program 5
+
+[thinkercade](https://www.tinkercad.com/things/lFIvhIu467Z-2-led-blinhing-useing-arduino/editel)
+![photo is loading](
