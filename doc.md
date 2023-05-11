@@ -86,3 +86,8 @@ void loop()
   delay(1000); // Wait for 1000 millisecond(s)
 }
  ```
+# day-3
+# thinker cad program 6
+[thinkercade](https://www.tinkercad.com/things/5qFEsArirTq-5-led-with-using-arduino/editel)
+
+![photo is loading](
