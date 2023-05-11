@@ -16,3 +16,5 @@
 # tinker cad program 
 
 ![no photo](https://github.com/muhammedanshid/10-days-internship/blob/main/anshidtinkecade3.png)
+
+[thinkercade](https://www.tinkercad.com/things/ezCf7UJyaQp-led-blinking-use-ic-7408/editel)
