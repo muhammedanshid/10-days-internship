@@ -2,13 +2,13 @@
 
 
 # day-2 
-# tinker cad program 1
+## tinker cad program 1
 
 ![no photo](https://github.com/muhammedanshid/10-days-internship/blob/main/anshidtinkercad.png)
 
 
 # day-2 
-# tinker cad program 2
+## tinker cad program 2
 
 [thikercad](https://www.tinkercad.com/things/8V7fwjLeWW0-ledbling/editel)
 
@@ -16,7 +16,7 @@
 
 
 # day-3
-# tinker cad program 3
+## tinker cad program 3
 
 [thinkercade](https://www.tinkercad.com/things/ezCf7UJyaQp-led-blinking-use-ic-7408/editel)
 
@@ -26,13 +26,13 @@
 
 
 # day-3
-# thinker cad program 4
+## thinker cad program 4
 
 [thinkercade](https://www.tinkercad.com/things/1q30jd88bha-led-blink-with-arduino/editel)
 
 ![photo is loading](https://github.com/muhammedanshid/10-days-internship/blob/main/anshidtinkcad4.png)
  
- code for led blink with arduino 
+## Code for led blink with arduino 
 ```
 // C++ code
 //
@@ -57,7 +57,7 @@ void loop()
 }
 ```
 # day-3
-# thinker cad program 5
+## thinker cad program 5
 
 [thinkercade](https://www.tinkercad.com/things/lFIvhIu467Z-2-led-blinhing-useing-arduino/editel)
 
@@ -87,12 +87,12 @@ void loop()
 }
  ```
 # day-3
-# thinker cad program 6
+## thinker cad program 6
 [thinkercade](https://www.tinkercad.com/things/5qFEsArirTq-5-led-with-using-arduino/editel)
 
 ![photo is loading](https://github.com/muhammedanshid/10-days-internship/blob/main/img/anshidtinkecad6.png)
 
-cod of this experiment
+## Code of this experiment
 ```
 e(7, LOW);
   delay(300); // Wait for 1000 millisecond(s)
