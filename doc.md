@@ -60,4 +60,29 @@ void loop()
 # thinker cad program 5
 
 [thinkercade](https://www.tinkercad.com/things/lFIvhIu467Z-2-led-blinhing-useing-arduino/editel)
+
 ![photo is loading](https://github.com/muhammedanshid/10-days-internship/blob/main/anshidtinkercad5.png)
+
+
+ code for led blink with arduino 
+ ```
+ // C++ code
+//
+void setup()
+{
+  pinMode(13, OUTPUT);
+  pinMode(8, OUTPUT);
+}
+
+void loop()
+{
+  digitalWrite(8, HIGH);
+  delay(1000); // Wait for 1000 millisecond(s)
+  digitalWrite(8, LOW);
+  delay(1000); // Wait for 1000 millisecond(s)
+  digitalWrite(13, HIGH);
+  delay(1000); // Wait for 1000 millisecond(s)
+  digitalWrite(13, LOW);
+  delay(1000); // Wait for 1000 millisecond(s)
+}
+ ```
