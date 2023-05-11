@@ -9,6 +9,7 @@
 
 # day-2 
 # tinker cad program 2
+
 [thikercad](https://www.tinkercad.com/things/8V7fwjLeWW0-ledbling/editel)
 
 ![no photo](https://github.com/muhammedanshid/10-days-internship/blob/main/anshidtinkecade2.png)
@@ -18,14 +19,19 @@
 # tinker cad program 3
 
 [thinkercade](https://www.tinkercad.com/things/ezCf7UJyaQp-led-blinking-use-ic-7408/editel)
+
 [schematic viewof exp 3](https://github.com/muhammedanshid/10-days-internship/blob/main/anshidtinkecade3schematicview.png)
+
 ![no photo](https://github.com/muhammedanshid/10-days-internship/blob/main/anshidtinkecade3.png)
 
 
 # day-3
 # thinker cad program 4
+
 [thinkercade](https://www.tinkercad.com/things/1q30jd88bha-led-blink-with-arduino/editel)
+
 ![photo is loading](https://github.com/muhammedanshid/10-days-internship/blob/main/anshidtinkcad4.png)
+ 
  code for led blink with arduino 
 ```
 // C++ code
