@@ -16,6 +16,7 @@
 [thinkercade](https://www.tinkercad.com/things/ezCf7UJyaQp-led-blinking-use-ic-7408/editel)
 
 ![no photo](https://github.com/muhammedanshid/10-days-internship/blob/main/anshidtinkecade3.png)
+[s](https://github.com/muhammedanshid/10-days-internship/blob/main/anshidtinkecade3schematicview.png)
 # day-3
 # thinker cad program 4
  code for led blink with arduino 
