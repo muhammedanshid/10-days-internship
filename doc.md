@@ -60,4 +60,4 @@ void loop()
 # thinker cad program 5
 
 [thinkercade](https://www.tinkercad.com/things/lFIvhIu467Z-2-led-blinhing-useing-arduino/editel)
-![photo is loading](
+![photo is loading](https://github.com/muhammedanshid/10-days-internship/blob/main/anshidtinkercad5.png)
