@@ -2,13 +2,13 @@
 
 
 # day-2 
-## tinker cad program 1
+## tinker cad program 1-l
 
 ![no photo](https://github.com/muhammedanshid/10-days-internship/blob/main/anshidtinkercad.png)
 
 
 # day-2 
-## tinker cad program 2
+## tinker cad program 2-LED blinging
 
 [thikercad](https://www.tinkercad.com/things/8V7fwjLeWW0-ledbling/editel)
 
@@ -16,7 +16,7 @@
 
 
 # day-3
-## tinker cad program 3
+## tinker cad program 3-LED blinking use ic 7408
 
 [thinkercade](https://www.tinkercad.com/things/ezCf7UJyaQp-led-blinking-use-ic-7408/editel)
 
@@ -32,7 +32,7 @@
 
 ![photo is loading](https://github.com/muhammedanshid/10-days-internship/blob/main/anshidtinkcad4.png)
  
-## Code for led blink with arduino 
+## Code for LED blink with arduino 
 ```
 // C++ code
 //
