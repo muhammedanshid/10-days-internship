@@ -4,7 +4,7 @@
 # Day-2 
 ## Tinker cad program 1-LED blinking
 
-![no photo](https://github.com/muhammedanshid/10-days-internship/blob/main/anshidtinkercad.png)
+![no photo](https://github.com/muhammedanshid/10-days-internship/blob/main/img/anshidtinkercad.png)
 
 
 # Day-2 
@@ -12,7 +12,7 @@
 
 [thikercad](https://www.tinkercad.com/things/8V7fwjLeWW0-ledbling/editel)
 
-![no photo](https://github.com/muhammedanshid/10-days-internship/blob/main/anshidtinkecade2.png)
+![no photo](https://github.com/muhammedanshid/10-days-internship/blob/main/img/anshidtinkecade2.png)
 
 
 # day-3
@@ -20,9 +20,9 @@
 
 [thinkercade](https://www.tinkercad.com/things/ezCf7UJyaQp-led-blinking-use-ic-7408/editel)
 
-[schematic viewof exp 3](https://github.com/muhammedanshid/10-days-internship/blob/main/anshidtinkecade3schematicview.png)
+[schematic viewof exp 3](https://github.com/muhammedanshid/10-days-internship/blob/main/img/anshidtinkecade3schematicview.png)
 
-![no photo](https://github.com/muhammedanshid/10-days-internship/blob/main/anshidtinkecade3.png)
+![no photo](https://github.com/muhammedanshid/10-days-internship/blob/main/img/anshidtinkecade3.png)
 
 
 # day-3
@@ -30,7 +30,7 @@
 
 [thinkercade](https://www.tinkercad.com/things/1q30jd88bha-led-blink-with-arduino/editel)
 
-![photo is loading](https://github.com/muhammedanshid/10-days-internship/blob/main/anshidtinkcad4.png)
+![photo is loading](https://github.com/muhammedanshid/10-days-internship/blob/main/img/anshidtinkcad4.png)
  
 ## Code for LED blink with arduino 
 ```
@@ -61,7 +61,7 @@ void loop()
 
 [thinkercade](https://www.tinkercad.com/things/lFIvhIu467Z-2-led-blinhing-useing-arduino/editel)
 
-![photo is loading](https://github.com/muhammedanshid/10-days-internship/blob/main/anshidtinkercad5.png)
+![photo is loading](https://github.com/muhammedanshid/10-days-internship/blob/main/img/anshidtinkercad5.png)
 
 
  code for led blink with arduino 
@@ -90,7 +90,7 @@ void loop()
 ## thinker cad program 6
 [thinkercade](https://www.tinkercad.com/things/5qFEsArirTq-5-led-with-using-arduino/editel)
 
-![photo is loading](https://github.com/muhammedanshid/10-days-internship/blob/main/img/anshidtinkecad6.png)
+![photo is loading](https://github.com/muhammedanshid/10-days-internship/blob/main/img/anshid6.png)
 
 ## Code of this experiment
 ```
