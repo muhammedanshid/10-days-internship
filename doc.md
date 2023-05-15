@@ -137,4 +137,4 @@ void loop()
 
 [thinkercade](https://www.tinkercad.com/things/aK3rFULNbeh-7-segment-display/editel)
 
-![photo is loading](
+![photo is loading](https://github.com/muhammedanshid/10-days-internship/blob/main/img/anshidthinkercad7.png)
