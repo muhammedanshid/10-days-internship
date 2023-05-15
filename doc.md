@@ -139,8 +139,26 @@ void loop()
 
 ![photo is loading](https://github.com/muhammedanshid/10-days-internship/blob/main/img/anshidthinkercad7.png)
 
-# day-5
+# Day-4
+## make a program using blockly google developers
+![photo is loading](
+
+# Day-5
 ## Thnker cad program 1
 ### interfacing potentiometer with arduino
 [thinkercade](https://www.tinkercad.com/things/fVyJBzGFkDy-interfacing-potentiometer-with-arduino/editel)
-![photo is loading](
+
+![photo is loading](https://github.com/muhammedanshid/10-days-internship/blob/main/img/anshidday5program1.png)
+### code of the program
+```
+const int potPin=A0;
+
+void setup() {
+  Serial.begin(9600);
+}
+void loop(){
+  int potValue = analogRead(potPin);
+  Serial.println(potValue);
+  delay(100);
+}
+```
