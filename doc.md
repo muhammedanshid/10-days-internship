@@ -130,3 +130,11 @@ void loop()
   digitalWrit
 }
 ```
+
+# Day-3
+## Thinker cad program 7
+### 7 segment display
+
+[thinkercade](https://www.tinkercad.com/things/aK3rFULNbeh-7-segment-display/editel)
+
+![photo is loading](
