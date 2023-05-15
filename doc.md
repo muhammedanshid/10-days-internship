@@ -138,3 +138,9 @@ void loop()
 [thinkercade](https://www.tinkercad.com/things/aK3rFULNbeh-7-segment-display/editel)
 
 ![photo is loading](https://github.com/muhammedanshid/10-days-internship/blob/main/img/anshidthinkercad7.png)
+
+# day-5
+## Thnker cad program 1
+### interfacing potentiometer with arduino
+[thinkercade](https://www.tinkercad.com/things/fVyJBzGFkDy-interfacing-potentiometer-with-arduino/editel)
+![photo is loading](
