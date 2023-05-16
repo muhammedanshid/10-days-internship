@@ -93,6 +93,7 @@ void loop()
 ![photo is loading](https://github.com/muhammedanshid/10-days-internship/blob/main/img/anshid6.png)
 
 ## Code of this experiment
+
 ```
 e(7, LOW);
   delay(300); // Wait for 1000 millisecond(s)
@@ -159,7 +160,7 @@ function packet() {
     }
   }
 }
-``
+```
 
 # Day-5
 ## Thnker cad program 1
@@ -187,6 +188,7 @@ void loop(){
 [The circuit design Link of Tinkercad experiment 2](https://www.tinkercad.com/things/6y1J4Emvzuo-display-0-to-9-using-arduino/editel)
 ![photo is loading](https://github.com/muhammedanshid/10-days-internship/blob/main/img/anshid%20DISPLAY%200%20to%209%20USING%20ARDUINO%20Tinkercad.png)
 ### code of this program is 
+
 
 ```
 // C++ code
