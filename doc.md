@@ -141,7 +141,25 @@ void loop()
 
 # Day-4
 ## make a program using blockly google developers
-![photo is loading](https://github.com/muhammedanshid/10-days-internship/blob/main/img/anshidday4blockly2.png)https://www.tinkercad.com/things/6y1J4Emvzuo-display-0-to-9-using-arduino/editel
+![photo is loading](https://github.com/muhammedanshid/10-days-internship/blob/main/img/anshidday4blockly2.png)
+### code of this program
+```
+var num_1, num_2, operator;
+
+// Describe this function...
+function packet() {
+  for (var count = 0; count < 10; count++) {
+    num_1 = Number(window.prompt('enter first number'));
+    num_2 = window.prompt('enter the second number');
+    operator = window.prompt('enter the operator');
+    if (operator == '+') {
+      window.alert(num_1 + num_2);
+    } else if (operator == '*') {
+      window.alert(num_1 * num_2);
+    }
+  }
+}
+``
 
 # Day-5
 ## Thnker cad program 1
