@@ -171,7 +171,7 @@ function packet() {
 1. Introducing Drones
 2. explained about drones parts
 3. also speaked about the technical specifications like (Thrust,altitude,propeler diamention,weight management) 
-4. To config the drones with software named as mission planner ![image](
+4. To config the drones with software named as mission planner ![image](https://github.com/muhammedanshid/anshid-10-days-internship/blob/main/img/anshidday5drone.png)
 ## Thnker cad program 1
 ### interfacing potentiometer with arduino
 [thinkercade](https://www.tinkercad.com/things/fVyJBzGFkDy-interfacing-potentiometer-with-arduino/editel)
@@ -191,12 +191,7 @@ void loop(){
 }
 ```
 
-# Day-5
-> Introducing drones by NAVANEETH 3rd year student of robotics
-1. Introducing Drones
-2. explained about drones parts
-3. also speaked about the technical specifications like (Thrust,altitude,propeler diamention,weight management) 
-4. To config the drones with software named as mission planner ![image](
+
 ## TINKERCAD PROGRAM 2
 ### EXPERIMENT NAME:DISPLAY 0 to 9 USING ARDUINO
 [The circuit design Link of Tinkercad experiment 2](https://www.tinkercad.com/things/6y1J4Emvzuo-display-0-to-9-using-arduino/editel)
