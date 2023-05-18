@@ -320,7 +320,7 @@ void loop()
 #### CIRCUIT DIAGRAM
 ![img](https://github.com/muhammedanshid/10-days-internship/blob/main/img/anshidday8program1.png)
 
-#### CODE
+#### Code of this program
 ```
 const int potPin=A0;
 
