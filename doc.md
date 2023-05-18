@@ -1,6 +1,19 @@
-# 10 days intership at Jyothi Engineering college
+# 10 DAYS INTERNSHIP AT JYOTHI ENGINEERING COLLEGE, CHERUTHIRUTHY
+# DAY 1
+## PROFILE
+## **MUHAMMED ANSHID A**
+### ROLL NO-35 SEMESTER:4
+#### 'ELECTRONICS AND COMMUNICATION ENGINEERING'
+```
 
+#include<stdio.h>
 
+int main()
+{
+print("hello");
+}
+```
+![anshid]()
 # Day-2 
 ## Tinker cad program 1-LED blinking
 
