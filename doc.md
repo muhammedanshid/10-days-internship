@@ -161,8 +161,17 @@ function packet() {
   }
 }
 ```
+1. the board is programmeble
+2. Can program th board by nucleo software
+3. it can build a sound detecting device by using microphone sensor 
+
 
 # Day-5
+> Introducing drones by NAVANEETH 3rd year student of robotics
+1. Introducing Drones
+2. explained about drones parts
+3. also speaked about the technical specifications like (Thrust,altitude,propeler diamention,weight management) 
+4. To config the drones with software named as mission planner ![image](
 ## Thnker cad program 1
 ### interfacing potentiometer with arduino
 [thinkercade](https://www.tinkercad.com/things/fVyJBzGFkDy-interfacing-potentiometer-with-arduino/editel)
@@ -183,6 +192,11 @@ void loop(){
 ```
 
 # Day-5
+> Introducing drones by NAVANEETH 3rd year student of robotics
+1. Introducing Drones
+2. explained about drones parts
+3. also speaked about the technical specifications like (Thrust,altitude,propeler diamention,weight management) 
+4. To config the drones with software named as mission planner ![image](
 ## TINKERCAD PROGRAM 2
 ### EXPERIMENT NAME:DISPLAY 0 to 9 USING ARDUINO
 [The circuit design Link of Tinkercad experiment 2](https://www.tinkercad.com/things/6y1J4Emvzuo-display-0-to-9-using-arduino/editel)
@@ -300,8 +314,9 @@ void loop()
 # DAY 7 
 ## INTRODUSED THE YESKAWA ARM ROBOT 
 ![IMG](https://github.com/muhammedanshid/10-days-internship/blob/main/img/DAY%207.jpeg)
-###  1.THE INDRODUCTION OF YASKAWA AR1440
-### THEN INDRODUSED ABOUT THE ELECTRIC VEHICLE (EV)
+1. the board is programmeble
+2. Can program th board by nucleo software
+3. it can build a sound detecting device by using microphone sensor 
 
 # DAY 8
 ## EXP 1
