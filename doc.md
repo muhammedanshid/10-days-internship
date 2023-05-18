@@ -298,4 +298,14 @@ void loop()
 ###  7.ALSO PRINTED A DESIGN (DURATION 19 MINUTE)
 
 # DAY 7 
-## INTRODUSED THE YESKAWA ARM ROBOT
+## INTRODUSED THE YESKAWA ARM ROBOT 
+![IMG](https://github.com/muhammedanshid/10-days-internship/blob/main/img/DAY%207.jpeg)
+###  1.THE INDRODUCTION OF YASKAWA AR1440
+### THEN INDRODUSED ABOUT THE ELECTRIC VEHICLE (EV)
+
+# DAY 8
+## EXP 1
+### DISPLAY 0-9 USING 7 SEGMENT AND POTENTIOMETER
+#### [CLICK HERE TO VIEW IN SITE](https://www.tinkercad.com/things/d8dTXzEkRT9-7-segment-display-printing-0-to-9-using-potentiometer-/editel)
+#### CIRCUIT DIAGRAM
+![img](
