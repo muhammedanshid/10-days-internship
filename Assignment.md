@@ -1,7 +1,7 @@
 # Day-10
 ## experiment 1
 ## last day we make and Design the Light Controlled Street light as project in thinker cad
-![photo]()
+![photo](https://github.com/muhammedanshid/anshid-10-days-internship/blob/main/img/Assignmentofanshid.png)
 ### [project link in thinker cad](https://www.tinkercad.com/things/9A8lrZIFfTY-light-controlled-street-light-project/editel)
 #### code of this project
 ```
