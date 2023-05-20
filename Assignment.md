@@ -1,7 +1,7 @@
 # Day-10
 ## experiment 1
 ## last day we make and Design the Light Controlled Street light as project in thinker cad
-![photo](https://github.com/muhammedanshid/anshid-10-days-internship/blob/main/img/Assignmentofanshid.png)
+![photo](https://github.com/muhammedanshid/anshid-10-days-internship/blob/main/img/Assignmentofanshid1.png)
 ### [project link in thinker cad](https://www.tinkercad.com/things/9A8lrZIFfTY-light-controlled-street-light-project/editel)
 #### code of this project
 ```
@@ -26,4 +26,4 @@ void loop()
 ## experiment 2
 ## 3D Design of a Key Chain
 ## [thinker cad link of key chain](https://www.tinkercad.com/things/j4JEHERltaX-anshid-logo/edit)
-![photo]()
+![photo](https://github.com/muhammedanshid/anshid-10-days-internship/blob/main/img/assignmentofanshid2.png)
