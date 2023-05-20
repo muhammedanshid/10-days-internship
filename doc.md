@@ -27,6 +27,37 @@ print("hello");
 
 [thikercad](https://www.tinkercad.com/things/8V7fwjLeWW0-ledbling/editel)
 
+
+
+
+        
+        
+            
+                    
+
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+
+        
+    
+    
+
 ![no photo](https://github.com/muhammedanshid/10-days-internship/blob/main/img/anshidtinkecade2.png)
 
 
@@ -440,7 +471,7 @@ void loop()
 ## experiment 1
 ### Led blink with 1 switch
 #### [Thinkercad link of Led blink with 1 swith](https://www.tinkercad.com/things/5qu0Mlie22m-led-blink-using-switch/editel)
-![pohot is busy](https://github.com/muhammedanshid/anshid-10-days-internship/blob/main/img/anshidday9exp1.png)
+![photo is busy](https://github.com/muhammedanshid/anshid-10-days-internship/blob/main/img/anshidday9exp1.png)
 #### code of this programe 
 ```
 const int buttonPin = 2;     // the number of the pushbutton pin
@@ -471,6 +502,8 @@ void loop() {
 }
 ```
 ###  3 Led blink with 3 switches
+### [Thinker cad link of 3 Leds blink with 3 switches](https://www.tinkercad.com/things/beirjl2eykr-3-leds-blink-using-3-switchs/editel)
+![photo](
 ### Code of this program 
 ```
 const int buttonPin0 = 2;     
@@ -518,5 +551,5 @@ void loop() {
     digitalWrite(ledPin2, LOW); 
   }
 }
-
+```
 
