@@ -1,7 +1,7 @@
-# 10 DAYS INTERNSHIP AT JYOTHI ENGINEERING COLLEGE, CHERUTHIRUTHY
+# 10 DAYS INTERNSHIP AT JYOTHI ENGINEERING COLLEGE, CHERUTHIRUTHY[
 # DAY 1
 ## PROFILE
-## **MUHAMMED ANSHID A**
+## **MUHAMMED ANSHID A**](https://github.com/muhammedanshid/anshid-10-days-internship/blob/main/img/anshidday9exp1.png)
 ### ROLL NO-35 SEMESTER:4
 #### 'ELECTRONICS AND COMMUNICATION ENGINEERING'
 [github link of muhammedanshid](https://www.github.com/muhammedanshid)
@@ -440,7 +440,7 @@ void loop()
 ## experiment 1
 ### Led blink with 1 switch
 #### [Thinkercad link of Led blink with 1 swith](https://www.tinkercad.com/things/5qu0Mlie22m-led-blink-using-switch/editel)
-![pohot is busy]
+![pohot is busy](https://github.com/muhammedanshid/anshid-10-days-internship/blob/main/img/anshidday9exp1.png)
 #### code of this programe 
 ```
 const int buttonPin = 2;     // the number of the pushbutton pin
