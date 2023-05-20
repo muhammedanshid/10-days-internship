@@ -1,7 +1,7 @@
 # 10 DAYS INTERNSHIP AT JYOTHI ENGINEERING COLLEGE, CHERUTHIRUTHY[
 # DAY 1
 ## PROFILE
-## **MUHAMMED ANSHID A**(https://github.com/muhammedanshid/anshid-10-days-internship/blob/main/img/anshidday9exp1.png)
+## **MUHAMMED ANSHID A**
 ### ROLL NO-35 SEMESTER:4
 #### 'ELECTRONICS AND COMMUNICATION ENGINEERING'
 [github link of muhammedanshid](https://www.github.com/muhammedanshid)
