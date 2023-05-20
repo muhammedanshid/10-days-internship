@@ -503,7 +503,7 @@ void loop() {
 ```
 ###  3 Led blink with 3 switches
 ### [Thinker cad link of 3 Leds blink with 3 switches](https://www.tinkercad.com/things/beirjl2eykr-3-leds-blink-using-3-switchs/editel)
-![photo](
+![photo](https://github.com/muhammedanshid/anshid-10-days-internship/blob/main/img/anshidday9exp2.png)
 ### Code of this program 
 ```
 const int buttonPin0 = 2;     
